@@ -5,6 +5,7 @@
 
 using namespace std;               
 
+
 class Student {
     string rollNum, name, fName, address, department, semester, gender, university, search;
     fstream file;
